@@ -1,0 +1,17 @@
+/* Reset margins and padding for the entire document */
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow: hidden;
+}
+
+/* Set full height for the root element */
+#root {
+  height: 100%;
+}
+
+/* Set full height for the Box containing the background image */
+.background-box {
+  height: 100%;
+}
